@@ -13,3 +13,7 @@ Labs Completed
 <img width="1198" alt="Image" src="https://github.com/user-attachments/assets/f12620f5-2319-4dfc-97e4-713736a7a5c7" />
 #5 Connect to Virtual Machine
 <img width="1710" alt="Image" src="https://github.com/user-attachments/assets/d98103dd-0e66-435a-a8f2-03d9f8031da1" />
+#6 Download and Utilize Wireshark for Network Analysis
+<img width="1348" alt="Image" src="https://github.com/user-attachments/assets/8992a7e4-fc41-4a2e-a97e-eb99cc96e80f" />
+#7 Utilize PowerShell to give commands like IP Config & ICMP to ping other VM
+
