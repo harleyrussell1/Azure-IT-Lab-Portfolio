@@ -9,3 +9,4 @@ Labs Completed
 #3 Create a Virtual Machine on Azure
 <img width="1196" alt="Image" src="https://github.com/user-attachments/assets/15660f6a-68e6-44b4-ba40-fa593d060197" />
 #4 Create and Configure a Network on Azure
+<img width="1184" alt="Image" src="https://github.com/user-attachments/assets/243b5a98-7071-47d6-b326-876600ee9c84" />
