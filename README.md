@@ -12,3 +12,4 @@ Labs Completed
 <img width="1184" alt="Image" src="https://github.com/user-attachments/assets/243b5a98-7071-47d6-b326-876600ee9c84" />
 <img width="1198" alt="Image" src="https://github.com/user-attachments/assets/f12620f5-2319-4dfc-97e4-713736a7a5c7" />
 #5 Connect to Virtual Machine
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/d98103dd-0e66-435a-a8f2-03d9f8031da1" />
