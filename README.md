@@ -18,5 +18,7 @@ Labs Completed
 #7 Utilize PowerShell to give commands like IP Config & ICMP to ping other VM
 <img width="479" alt="Image" src="https://github.com/user-attachments/assets/17187a1b-57a6-47b1-a48b-b7d02dbb5d48" />
 <img width="742" alt="Image" src="https://github.com/user-attachments/assets/e73a9844-b059-47f1-9909-4763ef23ab41" />
-Configure VM Network's Firewall Settings to Block Inbound 
+#8 Configure VM Network's Firewall Settings to Block Inbound 
 <img width="847" alt="Image" src="https://github.com/user-attachments/assets/664bd141-805d-428d-a55f-acc409517b84" />
+<img width="541" alt="Image" src="https://github.com/user-attachments/assets/524b3292-4e29-43e6-92df-597f8045626a" />
+#9 Observe Change in ICMP on Wireshark
