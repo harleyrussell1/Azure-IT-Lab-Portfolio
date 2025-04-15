@@ -22,3 +22,4 @@ Labs Completed
 <img width="847" alt="Image" src="https://github.com/user-attachments/assets/664bd141-805d-428d-a55f-acc409517b84" />
 <img width="541" alt="Image" src="https://github.com/user-attachments/assets/524b3292-4e29-43e6-92df-597f8045626a" />
 #9 Observe Change in ICMP on Wireshark
+<img width="1343" alt="Image" src="https://github.com/user-attachments/assets/5e2ba41a-af78-4332-bd4b-b608c0edc443" />
