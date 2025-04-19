@@ -167,3 +167,7 @@ This lab walks through the process of creating Windows and Linux virtual machine
 - **Real-Time Troubleshooting**: Identified and diagnosed connectivity and firewall-related issues through packet inspection and system responses
 - **Secure Shell Operations**: Performed secure remote commands to Linux systems while monitoring encrypted data exchange
 - **Command Line Proficiency**: Used PowerShell and terminal commands for ping tests, IP renewal, DNS queries, and SSH sessions
+
+## Screenshots
+
+All screenshots for this lab can be found in the [screenshots](./screenshots) folder.
