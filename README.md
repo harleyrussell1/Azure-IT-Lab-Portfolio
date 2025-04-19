@@ -154,3 +154,16 @@ This lab walks through the process of creating Windows and Linux virtual machine
    - Wireshark will display nonstop traffic from the ongoing RDP session
    - RDP continuously sends screen updates, explaining the consistent data stream
   
+---
+
+## Skills & Experience Gained
+
+- **Cloud VM Deployment**: Created and configured Windows 10 and Ubuntu Linux virtual machines within Azure
+- **Virtual Networking**: Connected multiple VMs to a shared Virtual Network and Subnet, verifying network topology with Azure Network Watcher
+- **Traffic Analysis with Wireshark**: Captured and filtered live network traffic to observe protocol-specific behavior including ICMP, SSH, DHCP, DNS, and RDP
+- **Firewall and NSG Management**: Practiced controlling traffic flow by modifying Network Security Group (NSG) rules to block or allow specific protocol traffic
+- **Remote Access & Protocol Use**: Used RDP to manage the Windows VM and SSH to securely access the Ubuntu VM
+- **DNS & DHCP Functionality**: Interacted with domain name resolution and IP address assignment processes to observe their live network behavior
+- **Real-Time Troubleshooting**: Identified and diagnosed connectivity and firewall-related issues through packet inspection and system responses
+- **Secure Shell Operations**: Performed secure remote commands to Linux systems while monitoring encrypted data exchange
+- **Command Line Proficiency**: Used PowerShell and terminal commands for ping tests, IP renewal, DNS queries, and SSH sessions
