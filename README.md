@@ -114,7 +114,7 @@ This lab walks through the process of creating Windows and Linux virtual machine
 ## Part 4 – Observe DHCP Traffic
 
 1. **Filter for DHCP in Wireshark**
-   - Apply the filter: `bootp`
+   - Apply the filter: `DHCP`
 
 2. **Renew the IP Address**
    - Open PowerShell as Administrator
